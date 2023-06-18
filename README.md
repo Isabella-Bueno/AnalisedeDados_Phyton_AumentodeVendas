@@ -21,9 +21,7 @@ Empresa: Lojas de Bermudas
 ► Passo 4 - Análise dos Dados obtidos 
 
 <h2 align="left"> 1 - Trazer sua base de dados para o Python e ver o que tem nela </h2> 
-
-
-<h3 align="left">Eu utilizei para esse projeto o Jupyter, e utilizei o seguinte código
+  Eu utilizei para esse projeto o Jupyter, e utilizei o seguinte código
 
   import pandas as pd
   tabela =pd.read_excel("Vendas.xlsx")
